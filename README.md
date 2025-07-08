@@ -15,3 +15,14 @@ A full-stack web application developed to manage and track student attendance ef
 5) Analytics & Reporting: Attendance summaries and trend analysis generated using PHP and SQL queries.
 
 6) Authentication & Security: Secure login system to restrict access to authorized personnel only.
+
+# Images of the Website Interface
+
+![image alt](https://github.com/anantBachloo/TIKK-IT-/blob/0204109a991f380e7717c2e01d6b300e1f080466/Screenshots/SignInPage.jpeg)
+
+![image alt](https://github.com/anantBachloo/TIKK-IT-/blob/0204109a991f380e7717c2e01d6b300e1f080466/Screenshots/CourseSelectionPage.jpeg)
+
+![image alt](https://github.com/anantBachloo/TIKK-IT-/blob/0204109a991f380e7717c2e01d6b300e1f080466/Screenshots/StudentMarkingPage.jpeg)
+
+![image alt](https://github.com/anantBachloo/TIKK-IT-/blob/0204109a991f380e7717c2e01d6b300e1f080466/Screenshots/EmailReminderPage.jpeg)
+
